@@ -4,4 +4,4 @@
 
 - [bourbon.io]('https://www.bourbon.io')
 - [pugjs]('https://pugjs.org/api/getting-started.html')
-- [sass]('https://sass-lang.com')
+- [sass](https://sass-lang.com)
